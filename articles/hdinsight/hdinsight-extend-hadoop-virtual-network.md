@@ -117,6 +117,13 @@ The IP addresses that should be allowed are specific to the region that the HDIn
 | &nbsp; | UK South | 51.140.47.39</br>51.140.52.16 | 443 |
 | United States | West Central US | 52.161.23.15</br>52.161.10.167 | 443 |
 | &nbsp; | West US 2 | 52.175.211.210</br>52.175.222.222 | 443 |
+| Fairfax | USGov Virginia | 13.72.49.126</br>13.72.55.55 | 443 |
+| &nbsp; | USGov Iowa | 13.72.184.124</br>13.72.190.110 | 443 |
+| Blackforest | Germany Central | 51.4.146.68</br>51.4.146.80 | 443 |
+| &nbsp; | Germany Northeast | 51.5.150.132</br>51.5.144.101 | 443 |
+| Mooncake | China North | 42.159.96.170</br>139.217.2.219 | 443 |
+| &nbsp; | China East | 42.159.198.178</br>42.159.234.157 | 443 |
+
 
 __If your region is not listed in the table__, allow traffic to port __443__ on the following IP addresses:
 
